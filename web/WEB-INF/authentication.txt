@@ -1,0 +1,7 @@
+searchPage
+searchAction
+confirmDeletePage
+confirmDeleteAction
+deleteAction
+updateAction
+logoutAction
